@@ -1,2 +1,2 @@
-# Mapping_Earthquakes
-Module 13
+# Mapping Earthquakes
+## Module 13 Challenge
